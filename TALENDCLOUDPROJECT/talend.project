@@ -105,6 +105,7 @@
       <relatedItems xmi:id="_lFl18fi1EeiS3_iQPTPffQ" id="MDM" version="Latest" type="routine"/>
       <relatedItems xmi:id="_lFl18vi1EeiS3_iQPTPffQ" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_lFl18_i1EeiS3_iQPTPffQ" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_M36dMPjyEeihiqhtsM9AhQ" id="_eHLbAPjxEeihiqhtsM9AhQ" version="Latest" type="joblet"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_yAfHwPjxEeihiqhtsM9AhQ">
       <baseItem xmi:id="_yAfHwfjxEeihiqhtsM9AhQ" id="_eHLbAPjxEeihiqhtsM9AhQ" version="0.1" type="joblet"/>
